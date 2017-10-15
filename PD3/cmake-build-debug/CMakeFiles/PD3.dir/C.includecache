@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/logins/CLionProjects/PD3/main.c
+stdio.h
+-
+memory.h
+-
+dirent.h
+-
+stdlib.h
+-
+
