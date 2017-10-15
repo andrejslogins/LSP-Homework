@@ -1,0 +1,3 @@
+/home/logins/CLionProjects/MD3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/logins/CLionProjects/MD3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/logins/CLionProjects/MD3/cmake-build-debug/CMakeFiles/MD3.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/logins/CLionProjects/MD3/main.c
+stdio.h
+-
+dirent.h
+-
+memory.h
+-
+ctype.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+openssl/md5.h
+-
+
