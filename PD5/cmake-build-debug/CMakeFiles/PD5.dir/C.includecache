@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/logins/CLionProjects/PD5/main.c
+setjmp.h
+-
+signal.h
+-
+stdio.h
+-
+zconf.h
+-
+memory.h
+-
+
